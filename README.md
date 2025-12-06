@@ -123,3 +123,12 @@ arvore de natal em 3d em html e css apenas.
 
 ---
 
+<details>
+<summary><strong>10. 3D Christmas Tree</strong></summary>
+
+### arvore de natal 
+arvore de natal animada em html e css.
+
+<img width="1143" height="847" alt="{0CFC787E-7F79-4EBA-A0F6-C9B3B21FFEAE}" src="https://github.com/user-attachments/assets/da35c3e7-4e9d-4219-85de-11a80f575092" width="600">
+
+</details>
